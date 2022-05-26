@@ -16,3 +16,9 @@ In this Repository there are problems, that are solved or given as classwork or 
 - MultiThreading
 - Inheritance
 - VideoLaunch
+- Binary Search
+- Bubble Sort
+- Check Palindrome
+- Find Longest Word
+- Area
+- Rhombus Pattern
