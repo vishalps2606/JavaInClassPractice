@@ -13,3 +13,6 @@ In this Repository there are problems, that are solved or given as classwork or 
 - SHA-1
 - SwapFirstAndLast
 - SymmetricKey
+- MultiThreading
+- Inheritance
+- VideoLaunch
